@@ -11,3 +11,6 @@ body {
   height: 100%;
   font-family: prettydown;
 }
+*::-webkit-scrollbar{
+  display: none;
+}

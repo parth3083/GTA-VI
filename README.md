@@ -1,4 +1,4 @@
-# GTA VI Landing Page Implementation
+# GTA VI Landing Page 
 
 This project is a stunning front-end implementation inspired by the highly anticipated upcoming game Grand Theft Auto VI. The website features an eye-catching UI with immersive animations that capture the essence of the GTA franchise while showcasing modern web development techniques.
 
